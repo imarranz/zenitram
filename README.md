@@ -3,6 +3,14 @@
 
 **Cyberdeck DIY – Proyecto Personal**
 
+
+![DIY Project](https://img.shields.io/badge/type-DIY-blueviolet?style=flat-square&logo=wrench)
+![Raspberry Pi](https://img.shields.io/badge/board-Raspberry%20Pi-red?style=flat-square&logo=raspberry-pi)
+![Cyberpunk Inspired](https://img.shields.io/badge/inspired_by-Cyberpunk-ff69b4?style=flat-square&logo=circle)
+![Portable](https://img.shields.io/badge/form_factor-Portable-brightgreen?style=flat-square&logo=battery-charging)
+![Ultrawide Display](https://img.shields.io/badge/display-1280x400-informational?style=flat-square&logo=windowsterminal)
+![r/cyberDeck](https://img.shields.io/badge/subreddit-r%2FcyberDeck-orange?style=flat-square&logo=reddit)
+
 Bienvenido a **ZENITRAM**, mi proyecto personal para construir un **cyberdeck DIY** desde cero. No se trata solo de ensamblar piezas, sino de diseñar un dispositivo portátil que combine funcionalidad, identidad visual y un guiño nostálgico a la era del *cyberpunk* y la informática clásica.
 
 **ZENITRAM** nace de la pasión por la estética retro-futurista, el amor por los proyectos *maker*, y el deseo de tener una máquina que no solo sea útil, sino que también cuente una historia. Inspirado por dispositivos como el **Penkesu Computer**, y por máquinas legendarias de los años 80 como el **Sharp PC-5000** o el **Tandy 200**, este proyecto es tanto un homenaje como una reinvención.
@@ -41,7 +49,7 @@ Este repositorio servirá como:
 
   - [Penkesu Computer](https://penkesu.computer/)
   - [r/cyberDeck en Reddit](https://www.reddit.com/r/cyberDeck/) – comunidad muy activa de proyectos similares
-  - [Kazushi Maruhashi (autor del Penkesu)](https://github.com/penk/penkesu)
+  - [Penk Chen (autor del Penkesu)](https://github.com/penk/penkesu)
   - [Awesome Cyberdecks](https://github.com/jakehilborn/awesome-cyberdecks) – recopilación de proyectos DIY
 
 ---
@@ -55,7 +63,7 @@ Una gran fuente de inspiración para este proyecto ha sido el **[Penkesu Compute
   - Pantalla ultrapanorámica de 1280x400.
   - Teclado ortolineal con switches Choc v1.
 
-![Penkesu](https://penkesu.computer/images/penkesu5.jpg)
+![Penkesu](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-heroshot.jpg)
 
 
 Más [info](https://penkesu.computer/)
@@ -68,9 +76,11 @@ El diseño del Penkesu, y en parte el de mi proyecto, toma clara inspiración de
 
   - **[Sharp PC-5000](https://en.wikipedia.org/wiki/Sharp_PC-5000)** (1983)  
     ![Sharp PC-5000](https://upload.wikimedia.org/wikipedia/commons/6/66/Sharp_PC-5000_open.jpg)
-
+    --SHARP PC 5000__
+    
   - **[Tandy 200](https://en.wikipedia.org/wiki/Tandy_200)** (1984)  
-    ![Tandy 200](https://upload.wikimedia.org/wikipedia/commons/2/24/Tandy_Model_200.jpg)
+    ![Tandy 200](https://en.wikipedia.org/wiki/File:Tandy_Model_200_(1).jpg)  
+    __Tandy Model 200__
 
 Estos dispositivos tenían forma de cuaderno, pantalla alargada y teclado físico completo, anticipando muchos aspectos de los portátiles modernos pero con una estética muy marcada que hoy consideramos retrofuturista.
 
